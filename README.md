@@ -1,1 +1,2 @@
-# Data_Project_GUI
+# Learing Mangment System_GUI
+by c++ and Qt creator  
