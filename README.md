@@ -71,18 +71,18 @@ To run the Learning Management System project, please follow these steps:
 
  <p align="left">
     <img src="https://github.com/hazemzakariasaad/Learing-Mangment-System/blob/main/Screanshots/Create_course.png " alt="Create course width="200" height="300">
-    <img src="https://github.com/hazemzakariasaad/Learing-Mangment-System/blob/main/Screanshots/edit_course.png " alt="edit course" width="200" height="300">
+    <img src="https://github.com/hazemzakariasaad/Learing-Mangment-System/blob/main/Screanshots/edit_course.png " alt="edit course" width="350" height="300">
  </p>
  
  - Create Student  || Edit Student
   <p align="left">
     <img src="https://github.com/hazemzakariasaad/Learing-Mangment-System/blob/main/Screanshots/Createst.png" alt="Create Student width="200" height="300">
-    <img src="https://github.com/hazemzakariasaad/Learing-Mangment-System/blob/main/Screanshots/edit.png" alt="edit Student" width="200" height="300">
+    <img src="https://github.com/hazemzakariasaad/Learing-Mangment-System/blob/main/Screanshots/edit.png" alt="edit Student" width="350" height="300">
  </p>
   - Create Professor  || Edit Professor
   <p align="left">
     <img src="https://github.com/hazemzakariasaad/Learing-Mangment-System/blob/main/Screanshots/Create_prof.png" alt="Create Prof width="300" height="300">
-    <img src="https://github.com/hazemzakariasaad/Learing-Mangment-System/blob/main/Screanshots/edit_prof.png" alt="edit Prof" width="300" height="300">
+    <img src="https://github.com/hazemzakariasaad/Learing-Mangment-System/blob/main/Screanshots/edit_prof.png" alt="edit Prof" width="350" height="300">
  </p>
  
 ## Contributors
