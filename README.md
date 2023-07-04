@@ -4,15 +4,17 @@
 The Learning Management System (LMS) is an online platform designed to streamline the process of creating, managing, and delivering educational courses. It serves as a centralized hub for educators, learners, and administrators, providing them with tools and features to facilitate efficient and engaging learning experiences.
 
 ## Features
+ The program is an admin dashboard, Admin should be able to do the following:
+* Login to Mainmenu
+* Add new student(s)
+* Add new professor(s)
+* Assign Professor(s) to a Course
+* Add Student(s) to a Course
+* Admin can show the Student Info
 
-- **Course Management**: Create, organize, and manage courses with ease. Add course materials, assignments, quizzes, and interactive content.
+- **Course Management**: Create, organize, and manage courses with ease. Add course materials.
 - **User Roles**: Support multiple user roles such as instructors, students, and administrators, each with their own set of permissions and access levels.
 - **Enrollment**: Allow users to enroll in courses, track their progress, and access course content based on their enrollment status.
-- **Discussion Forums**: Enable learners to participate in discussions, ask questions, and engage in collaborative learning with peers and instructors.
-- **Assessment and Grading**: Provide tools for creating assessments, evaluating student submissions, and assigning grades. Generate comprehensive grade reports.
-- **Notifications**: Send notifications and reminders to users for upcoming assignments, deadlines, announcements, or discussions.
-- **Progress Tracking**: Monitor and track learner progress, completion rates, and performance metrics. Generate reports for instructors and administrators.
-- **Multimedia Support**: Incorporate various multimedia elements such as videos, audio clips, and interactive presentations into course content.
 - **Responsive Design**: Ensure the platform is accessible and responsive across different devices and screen sizes for a seamless learning experience.
 - **Analytics and Insights**: Gather and analyze data to gain insights into learner engagement, course effectiveness, and identify areas for improvement.
 
@@ -54,13 +56,44 @@ To run the Learning Management System project, please follow these steps:
 
 ## UML_Diagrams <a name = "UML_Diagrams"></a>
  ### Class Diagram
- <p align="left"> <img width="70%"  src="![classdiagram](https://github.com/hazemzakariasaad/Learing-Mangment-System/assets/98774050/26c7027c-e645-4eba-aa86-ce9f82b208ce)
-" /> </p>
+ <p align="left">
+<img src="https://github.com/hazemzakariasaad/Learing-Mangment-System/blob/main/UML_Diagrams/classdiagram.png" alt="Class Diagram" width="500" height="300">
+</p>
 
 ## Screenshots
+- Login || Mainmenu
+ <p align="left">
+    <img src="https://github.com/hazemzakariasaad/Learing-Mangment-System/blob/main/Screanshots/welcome.png " alt="Class Diagram" width="400" height="300">
+    <img src="https://github.com/hazemzakariasaad/Learing-Mangment-System/blob/main/Screanshots/Mainmenue.png " alt="Class Diagram" width="500" height="300">
+ </p>
+ 
+- Create Courses  || Edit Course 
 
-Include relevant screenshots of your LMS application to showcase its user interface and features. Provide captions or descriptions to highlight key elements.
-
-## Contributing
-
-Contributions are welcome! Please see the [contribution guidelines](https://github.com/your-username/learning-management-system/blob/main/CONTRIBUTING.md) for more information.
+ <p align="left">
+    <img src="https://github.com/hazemzakariasaad/Learing-Mangment-System/blob/main/Screanshots/Create_course.png " alt="Create course width="500" height="300">
+    <img src="https://github.com/hazemzakariasaad/Learing-Mangment-System/blob/main/Screanshots/edit_course.png " alt="edit course" width="500" height="300">
+ </p>
+ 
+ - Create Student  || Edit Student
+  <p align="left">
+    <img src="https://github.com/hazemzakariasaad/Learing-Mangment-System/blob/main/Screanshots/Createst.png" alt="Create Student width="500" height="300">
+    <img src="https://github.com/hazemzakariasaad/Learing-Mangment-System/blob/main/Screanshots/edit.png" alt="edit Student" width="500" height="300">
+ </p>
+  - Create Professor  || Edit Professor
+  <p align="left">
+    <img src="https://github.com/hazemzakariasaad/Learing-Mangment-System/blob/main/Screanshots/Create_prof.png" alt="Create Prof width="500" height="300">
+    <img src="https://github.com/hazemzakariasaad/Learing-Mangment-System/blob/main/Screanshots/edit_prof.png" alt="edit Prof" width="500" height="300">
+ </p>
+ 
+## Contributors
+<div>
+- <a href="https://github.com/hazemzakariasaad">
+    <img src="https://github.com/hazemzakariasaad.png" alt="hazemzakaria" width="100">
+  </a>
+- <a href="https://github.com/KhaledBadr07">
+    <img src="https://github.com/KhaledBadr07.png" alt="KhaledBadr07" width="100">
+  </a>
+   - <a href="https://github.com/AhmeddEmad7">
+    <img src="https://github.com/AhmeddEmad7.png" alt="AhmeddEmad7" width="100">
+  </a>
+</div>
