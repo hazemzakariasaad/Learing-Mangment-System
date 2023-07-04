@@ -63,8 +63,8 @@ To run the Learning Management System project, please follow these steps:
 ## Screenshots
 - Login || Mainmenu
  <p align="left">
-    <img src="https://github.com/hazemzakariasaad/Learing-Mangment-System/blob/main/Screanshots/welcome.png " alt="Class Diagram" width="200" height="300">
-    <img src="https://github.com/hazemzakariasaad/Learing-Mangment-System/blob/main/Screanshots/Mainmenue.png " alt="Class Diagram" width="200" height="300">
+    <img src="https://github.com/hazemzakariasaad/Learing-Mangment-System/blob/main/Screanshots/welcome.png " alt="Class Diagram" width="300" height="300">
+    <img src="https://github.com/hazemzakariasaad/Learing-Mangment-System/blob/main/Screanshots/Mainmenue.png " alt="Class Diagram" width="400" height="300">
  </p>
  
 - Create Courses  || Edit Course 
@@ -81,8 +81,8 @@ To run the Learning Management System project, please follow these steps:
  </p>
   - Create Professor  || Edit Professor
   <p align="left">
-    <img src="https://github.com/hazemzakariasaad/Learing-Mangment-System/blob/main/Screanshots/Create_prof.png" alt="Create Prof width="200" height="300">
-    <img src="https://github.com/hazemzakariasaad/Learing-Mangment-System/blob/main/Screanshots/edit_prof.png" alt="edit Prof" width="200" height="300">
+    <img src="https://github.com/hazemzakariasaad/Learing-Mangment-System/blob/main/Screanshots/Create_prof.png" alt="Create Prof width="300" height="300">
+    <img src="https://github.com/hazemzakariasaad/Learing-Mangment-System/blob/main/Screanshots/edit_prof.png" alt="edit Prof" width="300" height="300">
  </p>
  
 ## Contributors
