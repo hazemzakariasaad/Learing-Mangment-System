@@ -96,4 +96,16 @@ To run the Learning Management System project, please follow these steps:
    - <a href="https://github.com/AhmeddEmad7">
     <img src="https://github.com/AhmeddEmad7.png" alt="AhmeddEmad7" width="100">
   </a>
+   </a>
+   - <a href="https://github.com/Omartarek78">
+    <img src="https://github.com/Omartarek78.png" alt="Omartarek78" width="100">
+  </a>
+    </a>
+   - <a href="https://github.com/hanaheshamm">
+    <img src="https://github.com/hanaheshamm.png" alt="hanaheshamm" width="100">
+  </a>
+     </a>
+   - <a href="https://github.com/malaknasser812">
+    <img src="https://github.com/malaknasser812.png" alt="malaknasser812" width="100">
+  </a>
 </div>
